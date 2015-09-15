@@ -1,0 +1,23 @@
+h1 {
+  color: black;
+  font-size: 200%;
+}
+
+h2 {
+  color: Blue;
+  font-size: 150%;
+}
+
+p.hobby { color: Gold;
+  font-size: 150%;
+}
+
+section {
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#name  { background-color: lightblue }
+#hobby { background-color: lightgreen }
+#skill { background-color: khaki }
